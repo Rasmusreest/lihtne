@@ -1,3 +1,8 @@
-h1 {
+
+.header {
     font-size: 300px;
+}
+
+.header:hover {
+    color: red;
 }
