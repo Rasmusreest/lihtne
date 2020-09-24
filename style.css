@@ -1,7 +1,13 @@
-h1 {
+
+.header {
     font-size: 300px;
 }
 
+
 html {
     background-color: aquamarine;
+
+}
+.header:hover {
+    color: red;
 }
